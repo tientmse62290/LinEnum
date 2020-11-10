@@ -2,7 +2,7 @@
 #A script to enumerate local information from a Linux host
 version="version 0.982"
 #@rebootuser
-
+thothrough=1
 #help function
 usage () 
 { 
